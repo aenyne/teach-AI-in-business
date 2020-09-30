@@ -1,4 +1,4 @@
-# teach-AI-in-business
+# Teach AI in Business
 I am collecting material for teaching AI-related issues to non-tech people. The links should have provide for a general understanding of AI without going too deep into technical issues. Please contribute! 
 
 # Book Resources
