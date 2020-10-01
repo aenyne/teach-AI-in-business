@@ -24,7 +24,6 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
 | [Crash course for AI](https://www.youtube.com/watch?v=GvYYFloV0aA&feature=youtu.be) | This is a fun video series that introduces students and educators to Artificial Intelligence and also offers additional more advanced videos. Learn about the basics, neural networks, algorithms, and more.
-| [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
 | [Youtuber Channel Machine Learning Tutorial](https://www.youtube.com/bisaai) | Youtube Channel Turorial Teachable Machine for beginner |
 | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | A Machine Learning crash course using Tensorflow APIs by Google|
 | [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
@@ -33,7 +32,10 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 | [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
+| [AI and Machine Learning: A Nontechnical Overview](https://www.oreilly.com/library/view/ai-for-people/9781492036562/ch04.html) | AI and Machine Learning: A Nontechnical Overview from OREILLY themselves is a guide to learn anyone everything they need to know about AI, focussed on non-tech people |
+| [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
 | [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
+
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
@@ -52,10 +54,8 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Tom Taulli | [Artificial Intelligence Basics: A Non-Technical Introduction](https://geni.us/jOBRPcu) | This book equips you with a fundamental grasp of Artificial Intelligence and its impact. It provides a non-technical introduction to important concepts such as Machine Learning, Deep Learning, Natural Language Processing, Robotics and more. Further the author expands on the questions surrounding the future impact of AI on aspects that include societal trends, ethics, governments, company structures and daily life. |
 |---| Reinforcement Learning: An Introduction |---|
 |---| Reinforcement Learning |---|
-|---| Machine Learning |---|
 |---| Understanding Machine Learning From Theory to Algorithms |---|
 |Andrew Ng| Machine Learning Yearning |AI, machine learning, and deep learning are transforming numerous industries. But building a machine learning system requires that you make practical decisions|
 |---| A Course in Machine Learning |---|
 | Tom M Mitchell | [Machine Learning](https://www.cs.cmu.edu/~tom/mlbook.html) | This book covers the field of machine learning, which is the study of algorithms that allow computer programs to automatically improve through experience. The book is intended to support upper level undergraduate and introductory level graduate courses in machine learning. |
 | Charu C. Aggarwal| [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | This book covers both classical and modern models in deep learning. The primary focus is on the theory and algorithms of deep learning. The book is also rich in discussing different applications in order to give the practitioner a flavor of how neural architectures are designed for different types of problems. |
-| Ian Goodfellow, Yoshua Bengio, Aaron Courville | [Deep Learning Book](https://www.deeplearningbook.org/) | The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. |
