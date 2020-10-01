@@ -14,7 +14,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 **Make this Issue your First Issue**
 I am collecting material for teaching AI-related issues to non-tech people. The links should have provide for a general understanding of AI without going too deep into technical issues. Please contribute!
 
-**Please only Resources with NO CODE**
+**Kindly use only those Resources with NO CODE**
 
 ## Online Material
 
@@ -41,14 +41,12 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Ian Goodfellow and Yoshua Bengio and Aaron Courville| [Deep Learning](https://www.deeplearningbook.org/) | The book starts with a discussion on machine learning basics, including the applied mathematics and algorithms needed to effectively study deep learning from an academic perspective. There is no code covered in the book, making it perfect for a non-technical AI enthusiast. |
 | Peter Harrington | Machine Learning in Action | (Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)| 
 | Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
-| Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
 | Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) |---|
-|---| Reinforcement Learning: An Introduction |---|
 |---| Reinforcement Learning |---|
-|---| Machine Learning |---|
-|---| Understanding Machine Learning From Theory to Algorithms |---|
-|---| Machine Learning Yearning |---|
-|---| A Course in Machine Learning |---|
+| Alex Smola and S.V.N. Vishwanathan | Introduction to Machine Learning | Provides the reader with an overview of the vast applications of ML, including some basic tools of statistics and probability theory. Also includes discussions on sophisticated ideas and concepts. |
+| Shai Shalev-Shwartz and Shai Ben-David | [Understanding Machine Learning From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) |The primary goal of this book is to provide a rigorous, yet easy to follow, introduction to the main concepts underlying machine learning |
+| Andrew NG | [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/) |This book is focused on how to make ML algorithms work. Discusses various strategies to choose the right one among many possible directions. |
+| Hal Daumé III | [A Course in Machine Learning](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) | The purpose of this book is to provide a gentle and pedagogically organized introduction to the field. A second goal of this book is to provide a view of machine learning that focuses on ideas and models, not on math. |
 |---| Machine Learning |---|
 |---| Neural Networks and Deep Learning |---|
 |---| Deep Learning Book |---|
