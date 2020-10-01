@@ -23,6 +23,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 
 ## Book Resources
 | Author  | Book  |
+|---|---| 
 |Peter Harrington|Machine Learning in Action(Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)| 
 |---| Machine Learning |
 |---| Understanding Machine Learning From Theory to Algorithms |
