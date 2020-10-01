@@ -33,7 +33,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 | [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
-| [How far is too far? | The age of AI](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)| This is Youtube orignals series by Robert downey
+| [How far is too far? The age of AI](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)| This is a Youtube Orignals series by Robert Downey|
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
