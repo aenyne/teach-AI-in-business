@@ -15,22 +15,24 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 I am collecting material for teaching AI-related issues to non-tech people. The links should have provide for a general understanding of AI without going too deep into technical issues. Please contribute! 
 
 ## Online Material
-| Link to Issue  | Description  |
-|---|---| 
-| [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
-| [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
-| [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+| Link to Issue                                                 | Description                                                                                              |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [AI4All](https://ai4all.docebosaas.com/learn)                 | AI 4 All is a resource for AI facilitators to bring AI to scholars and students                          |
+| [Elements of AI](https://www.elementsofai.com/)               | Elements of AI is a free open online course to teach AI principles                                       |
+| [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses                  |
+| [The Non-Technical AI Guide](https://rb.gy/rqxt0v)            | One of the good blog post that could help AI more understandable for people without technical background |
+
 
 
 ## Book Resources
-| Author  | Book  |
-|---|---| 
-|---| Machine Learning |
-|---| Understanding Machine Learning From Theory to Algorithms |
-|---| Machine Learning Yearning |
-|---| A Course in Machine Learning |
-|---| Machine Learning |
-|---| Neural Networks and Deep Learning |
-|---| Deep Learning Book |
-|---| Reinforcement Learning: An Introduction |
-|---| Reinforcement Learning |
+| Author | Book                                                     |
+| ------ | -------------------------------------------------------- |
+| ---    | Machine Learning                                         |
+| ---    | Understanding Machine Learning From Theory to Algorithms |
+| ---    | Machine Learning Yearning                                |
+| ---    | A Course in Machine Learning                             |
+| ---    | Machine Learning                                         |
+| ---    | Neural Networks and Deep Learning                        |
+| ---    | Deep Learning Book                                       |
+| ---    | Reinforcement Learning: An Introduction                  |
+| ---    | Reinforcement Learning                                   |
