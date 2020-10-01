@@ -14,6 +14,8 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 **Make this Issue your First Issue**
 I am collecting material for teaching AI-related issues to non-tech people. The links should have provide for a general understanding of AI without going too deep into technical issues. Please contribute! 
 
+** Please only Resources with NO CODE**
+
 ## Online Material
 | Link to Issue  | Description  |
 |---|---| 
@@ -22,17 +24,24 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
 | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | A Machine Learning crash course using Tensorflow APIs by Google|
 | [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) | A Machine Learning university course taught by Stanford's Andrew Ng hosted on Coursera |
+| [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
+| [LIAI](https://medium.com/autonomous-agents/laymans-intro-to-ai-and-neural-networks-ce074457d85a) | A detailed introduction to AI and neural networks |
+| [Layman's Intro](https://towardsdatascience.com/a-simple-layman-introduction-to-ai-bcf793be7b4a) | A layman's introduction to AI |
 
 
 ## Book Resources
-| Author  | Book  |
-|---|---| 
-|---| Machine Learning |
-|Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |
-|---| Machine Learning Yearning |
-|---| A Course in Machine Learning |
-|---| Machine Learning |
-|---| Neural Networks and Deep Learning |
-|Ian Goodfellow and Yoshua Bengio and Aaron Courville| [Deep Learning Book](https://www.deeplearningbook.org/) |
-|---| Reinforcement Learning: An Introduction |
-|---| Reinforcement Learning |
+| Author  | Book  | Personal Notes |
+|---|---|---|
+|Peter Harrington | Machine Learning in Action | (Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)| 
+|---| Machine Learning |---|
+|---| Understanding Machine Learning From Theory to Algorithms |---|
+|---| Machine Learning Yearning |---|
+|---| A Course in Machine Learning |---|
+|---| Machine Learning |---|
+|---| Neural Networks and Deep Learning |---|
+|---| Deep Learning Book |---|
+|---| Reinforcement Learning: An Introduction |---|
+|---| Reinforcement Learning |---|
+|Ian Goodfellow and Yoshua Bengio and Aaron Courville| [Deep Learning Book](https://www.deeplearningbook.org/) |---|
+|Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
+|Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
