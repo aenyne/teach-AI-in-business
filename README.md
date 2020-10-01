@@ -33,13 +33,14 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 | [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
+| [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
 |---|---|---|
 | Ethem Alpaydin|[Machine Learning: The New AI](https://libribook.com/ebook/4757/machine-learning-new-ai-pdf) |---|
 | Ian Goodfellow and Yoshua Bengio and Aaron Courville| [Deep Learning](https://www.deeplearningbook.org/) | The book starts with a discussion on machine learning basics, including the applied mathematics and algorithms needed to effectively study deep learning from an academic perspective. There is no code covered in the book, making it perfect for a non-technical AI enthusiast. |
-| Peter Harrington | Machine Learning in Action | (Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)| 
+| Peter Harrington | Machine Learning in Action | (Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)|
 | Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
 | Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
 | Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) |---|
