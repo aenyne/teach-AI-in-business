@@ -43,12 +43,11 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
 | Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
 | Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) |---|
-|---| Reinforcement Learning: An Introduction |---|
+|Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) ||
 |---| Reinforcement Learning |---|
-|---| Machine Learning |---|
-|---| Understanding Machine Learning From Theory to Algorithms |---|
-|---| Machine Learning Yearning |---|
-|---| A Course in Machine Learning |---|
-|---| Machine Learning |---|
-|---| Neural Networks and Deep Learning |---|
-|---| Deep Learning Book |---|
+|Tom M. Mitchell| [Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html) ||
+|Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) ||
+|Andrew NG| [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning) ||
+|Hal Daumé III| [A Course in Machine Learning](http://ciml.info/) ||
+|Michael Nielsen | [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) ||
+|Ian Goodfellow and Yoshua Bengio and Aaron Courville| [Deep Learning Book](http://www.deeplearningbook.org/) ||
