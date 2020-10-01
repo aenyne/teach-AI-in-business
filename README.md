@@ -42,7 +42,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Peter Harrington | Machine Learning in Action | (Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)| 
 | Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
 | Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
-| Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) |---|
+| Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) |Reinforcement learning, one of the most active research areas in artificial intelligence, is a computational approach to learning whereby an agent tries to maximize the total amount of reward it receives while interacting with a complex, uncertain environment.|
 |---| Reinforcement Learning: An Introduction |---|
 |---| Reinforcement Learning |---|
 |---| Machine Learning |---|
