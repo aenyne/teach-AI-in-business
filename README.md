@@ -58,3 +58,4 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Machine Learning |---|
 |---| Neural Networks and Deep Learning |---|
 |---| Deep Learning Book |---|
+| Maxim Lapan | [Deep Reinforcement Learning Hands-On - Second Edition](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on-second-edition/9781838826994) | Deep Reinforcement Learning Hands-On, Second Edition is an updated and expanded version of the bestselling guide to the very latest reinforcement learning (RL) tools and techniques. It provides you with an introduction to the fundamentals of RL, along with the hands-on ability to code intelligent learning agents to perform a range of practical tasks.|
