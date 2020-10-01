@@ -33,6 +33,8 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 | [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
+| [The Non-Technical AI Guide](https://towardsdatascience.com/the-non-technical-guide-to-artificial-intelligence-e9e5da1a15c5) | The Non-Technical AI Guide is a guide to make AI more understandable for people without a technical background |
+| [AI and Machine Learning: A Nontechnical Overview](https://www.oreilly.com/library/view/ai-for-people/9781492036562/ch04.html) | AI and Machine Learning: A Nontechnical Overview from OREILLY themselves is a guide to learn anyone everything they need to know about AI, focussed on non-tech people |
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
