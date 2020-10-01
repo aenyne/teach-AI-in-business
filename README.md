@@ -23,6 +23,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
 | [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+| [Crash course for AI](https://www.youtube.com/watch?v=GvYYFloV0aA&feature=youtu.be) | This is a fun video series that introduces students and educators to Artificial Intelligence and also offers additional more advanced videos. Learn about the basics, neural networks, algorithms, and more.
 | [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
 | [Youtuber Channel Machine Learning Tutorial](https://www.youtube.com/bisaai) | Youtube Channel Turorial Teachable Machine for beginner |
 | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | A Machine Learning crash course using Tensorflow APIs by Google|
@@ -50,4 +51,3 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Peter Harrington | Machine Learning in Action | (Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)| 
 | Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
 | Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
-
