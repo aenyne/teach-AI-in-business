@@ -37,13 +37,13 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 ## Book Resources
 | Author  | Book  | Description & Notes |
 |---|---|---|
-| Ethem Alpaydin|[Machine Learning: The New AI](https://libribook.com/ebook/4757/machine-learning-new-ai-pdf) |---|
+| Ethem Alpaydin|[Machine Learning: The New AI](https://libribook.com/ebook/4757/machine-learning-new-ai-pdf) | A concise overview of machine learning—computer programs that learn from data—which underlies applications that include recommendation systems, face recognition, and driverless cars. |
 | Ian Goodfellow and Yoshua Bengio and Aaron Courville| [Deep Learning](https://www.deeplearningbook.org/) | The book starts with a discussion on machine learning basics, including the applied mathematics and algorithms needed to effectively study deep learning from an academic perspective. There is no code covered in the book, making it perfect for a non-technical AI enthusiast. |
 | Peter Harrington | Machine Learning in Action | (Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)| 
 | Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
-| Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
+| Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) | Machine learning is one of the fastest growing areas of computer science, with far-reaching applications. The aim of this textbook is to introduce machine learning and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms. |
 | Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) |---|
-|---| Reinforcement Learning: An Introduction |---|
+|Richard S. Sutton, Andrew G. Barto| [Reinforcement Learning: An Introduction] (https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) | The significantly expanded and updated new edition of a widely used text on reinforcement learning, one of the most active research areas in artificial intelligence. |
 |---| Reinforcement Learning |---|
 |---| Machine Learning |---|
 |---| Understanding Machine Learning From Theory to Algorithms |---|
