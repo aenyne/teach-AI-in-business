@@ -32,5 +32,5 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Machine Learning |
 |---| Neural Networks and Deep Learning |
 |---| Deep Learning Book |
-|---| Reinforcement Learning: An Introduction |
+|Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) |
 |---| Reinforcement Learning |
