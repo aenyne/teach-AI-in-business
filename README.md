@@ -30,6 +30,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [LIAI](https://medium.com/autonomous-agents/laymans-intro-to-ai-and-neural-networks-ce074457d85a) | A detailed introduction to AI and neural networks |
 | [Layman's Intro](https://towardsdatascience.com/a-simple-layman-introduction-to-ai-bcf793be7b4a) | A layman's introduction to AI |
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
+| [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 
 ## Book Resources
 | Author  | Book  | Personal Notes |
