@@ -47,7 +47,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Reinforcement Learning |---|
 |---| Machine Learning |---|
 |---| Understanding Machine Learning From Theory to Algorithms |---|
-|---| Machine Learning Yearning |---|
+|Andrew Ng| Machine Learning Yearning |AI, machine learning, and deep learning are transforming numerous industries. But building a machine learning system requires that you make practical decisions|
 |---| A Course in Machine Learning |---|
 |---| Machine Learning |---|
 |---| Neural Networks and Deep Learning |---|
