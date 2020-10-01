@@ -52,5 +52,5 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Machine Learning Yearning |---|
 |---| A Course in Machine Learning |---|
 |---| Machine Learning |---|
-|---| Neural Networks and Deep Learning |---|
-|---| Deep Learning Book |---|
+|Charu C Aggarwal| [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) |Neural Networks and Deep Learning is a free online book. The book will teach you about: 1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. 2) Deep learning, a powerful set of techniques for learning in neural networks|
+|Aaron Courville, Ian Goodfellow and Yoshua Bengio| [Deep Learning Book](https://www.deeplearningbook.org/) |The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.|
