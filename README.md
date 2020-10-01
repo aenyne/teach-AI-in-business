@@ -52,4 +52,4 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Machine Learning |---|
 |---| Neural Networks and Deep Learning |---|
 |---| Deep Learning Book |---|
-|Jeff Heaton| Artificial Intelligence for Humans |This book helps its readers get an overview and understanding of AI algorithms. It is meant to teach AI for those who don’t have an extensive mathematical background. The readers need to have only a basic knowledge of computer programming and college algebra.|
+|Jeff Heaton| [Artificial Intelligence for Humans](https://www.amazon.com/Artificial-Intelligence-Humans-Fundamental-Algorithms/dp/1493682229) |This book helps its readers get an overview and understanding of AI algorithms. It is meant to teach AI for those who don’t have an extensive mathematical background. The readers need to have only a basic knowledge of computer programming and college algebra.|
