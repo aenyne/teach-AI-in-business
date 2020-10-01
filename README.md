@@ -26,7 +26,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Author  | Book  |
 |---|---| 
 |Ethem Alpaydin|[Machine Learning: The New AI](https://libribook.com/ebook/4757/machine-learning-new-ai-pdf) |
-|---| Understanding Machine Learning From Theory to Algorithms |
+|Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) |
 |---| Machine Learning Yearning |
 |---| A Course in Machine Learning |
 |---| Machine Learning |
