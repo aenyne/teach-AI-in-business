@@ -49,6 +49,6 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Understanding Machine Learning From Theory to Algorithms |---|
 |---| Machine Learning Yearning |---|
 |---| A Course in Machine Learning |---|
-|---| Machine Learning |---|
-|---| Neural Networks and Deep Learning |---|
-|---| Deep Learning Book |---|
+| Tom M Mitchell | [Machine Learning](https://www.cs.cmu.edu/~tom/mlbook.html) | This book covers the field of machine learning, which is the study of algorithms that allow computer programs to automatically improve through experience. The book is intended to support upper level undergraduate and introductory level graduate courses in machine learning. |
+| Charu C. Aggarwal| [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | This book covers both classical and modern models in deep learning. The primary focus is on the theory and algorithms of deep learning. The book is also rich in discussing different applications in order to give the practitioner a flavor of how neural architectures are designed for different types of problems. |
+| Ian Goodfellow, Yoshua Bengio, Aaron Courville | [Deep Learning Book](https://www.deeplearningbook.org/) | The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. |
