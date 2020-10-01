@@ -43,6 +43,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
 | Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
 | Richard S. Sutton and Andrew G. Barto| [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) |---|
+| Hyatt Saleh | The Deep Learning with PyTorch Workshop | (http://libgen.rs/book/index.php?md5=4693873E0B9CFC14C5648D07E472A916) |
 |---| Reinforcement Learning: An Introduction |---|
 |---| Reinforcement Learning |---|
 |---| Machine Learning |---|
