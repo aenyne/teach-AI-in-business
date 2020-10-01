@@ -20,6 +20,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
 | [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+| [Crash course for AI](https://www.youtube.com/watch?v=GvYYFloV0aA&feature=youtu.be) | his is a fun video series that introduces students and educators to Artificial Intelligence and also offers additional more advanced videos. Learn about the basics, neural networks, algorithms, and more.
 
 
 ## Book Resources
@@ -34,3 +35,4 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Deep Learning Book |
 |---| Reinforcement Learning: An Introduction |
 |---| Reinforcement Learning |
+|---| 
