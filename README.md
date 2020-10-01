@@ -53,8 +53,8 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Reinforcement Learning |---|
 |---| Machine Learning |---|
 |---| Understanding Machine Learning From Theory to Algorithms |---|
-|---| Machine Learning Yearning |---|
-|---| A Course in Machine Learning |---|
+|Andrew Ng| [Machine Learning Yearning](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf) |AI is transforming numerous industries. Machine Learning Yearning, teaches you how to structure Machine Learning projects.This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work.|
+|Simon Rogers and Mark Girolami| [A Course in Machine Learning](https://github.com/wwkenwong/book/blob/master/Simon%20Rogers%2C%20Mark%20Girolami%20A%20First%20Course%20in%20Machine%20Learning.pdf) |A First Course in Machine Learning by Simon Rogers and Mark Girolami is the best introductory book for ML currently available. It combines rigor and precision with accessibility, starts from a detailed explanation of the basic foundations of Bayesian analysis in the simplest of settings, and goes all the way to the frontiers of the subject such as infinite mixture models, GPs, and MCMC.|
 |---| Machine Learning |---|
-|---| Neural Networks and Deep Learning |---|
+|Michael Nielsen| [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) |Introduction to the core principles of Neural Networks and Deep Learning in AI|
 |---| Deep Learning Book |---|
