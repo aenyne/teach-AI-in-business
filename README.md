@@ -23,12 +23,14 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
 | [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+| [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
+| [Youtuber Channel Machine Learning Tutorial](https://www.youtube.com/bisaai) | Youtube Channel Turorial Teachable Machine for beginner |
 | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | A Machine Learning crash course using Tensorflow APIs by Google|
-| [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) | A Machine Learning university course taught by Stanford's Andrew Ng hosted on Coursera |
 | [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
 | [LIAI](https://medium.com/autonomous-agents/laymans-intro-to-ai-and-neural-networks-ce074457d85a) | A detailed introduction to AI and neural networks |
 | [Layman's Intro](https://towardsdatascience.com/a-simple-layman-introduction-to-ai-bcf793be7b4a) | A layman's introduction to AI |
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
+
 
 
 ## Book Resources
