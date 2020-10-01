@@ -42,6 +42,8 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Deep Learning Book |---|
 |---| Reinforcement Learning: An Introduction |---|
 |---| Reinforcement Learning |---|
+|Ethem Alpaydin|[Machine Learning: The New AI](https://libribook.com/ebook/4757/machine-learning-new-ai-pdf) |---|
 |Ian Goodfellow and Yoshua Bengio and Aaron Courville| [Deep Learning Book](https://www.deeplearningbook.org/) |---|
 |Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
 |Shai Shalev-Shwartz and Shai Ben-David| [Understanding Machine Learning From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) |---|
+
