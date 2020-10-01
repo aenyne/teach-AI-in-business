@@ -38,7 +38,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Machine Learning |---|
 |---| Understanding Machine Learning From Theory to Algorithms |---|
 |---| Machine Learning Yearning |---|
-|---| A Course in Machine Learning |---|
+| Coursera | A Course in Machine Learning | This [course](https://www.coursera.org/learn/ai-for-everyone) is a course for beginners it start from the basics and takes you to the level of expertise in this arena. |
 |---| Machine Learning |---|
 |---| Neural Networks and Deep Learning |---|
 |---| Deep Learning Book |---|
