@@ -38,6 +38,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [AI and Machine Learning: A Nontechnical Overview](https://www.oreilly.com/library/view/ai-for-people/9781492036562/ch04.html) | AI and Machine Learning: A Nontechnical Overview from OREILLY themselves is a guide to learn anyone everything they need to know about AI, focussed on non-tech people |
 | [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
 | [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
+| [Machine Learning Tutorial list](https://pythonprogramming.net/machine-learning-tutorials/) | Machine Learning Tutorial list by Sentdex|
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
