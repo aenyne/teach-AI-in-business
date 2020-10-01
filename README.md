@@ -34,7 +34,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 | [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
 | [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) | Machine Learning is a course for beginer, it is based on MATLAB giving the fundamental idea of various methodologies of Machine Learning. |
-| [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | This course deals with one of the most popular API for ML it begons from the basics to an advanced level, making it easier for using and researching Neural Networks. |
+| [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | This course deals with one of the most popular API for ML it begins from the basics to an advanced level, making it easier for using and researching Neural Networks. |
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
