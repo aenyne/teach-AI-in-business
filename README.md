@@ -23,6 +23,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
 | [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+| [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) | Visual introduction to Machine Learning is a beautiful website that gives a comprehensive introduction and easily understood first encounter with machine learning |
 | [Crash course for AI](https://www.youtube.com/watch?v=GvYYFloV0aA&feature=youtu.be) | This is a fun video series that introduces students and educators to Artificial Intelligence and also offers additional more advanced videos. Learn about the basics, neural networks, algorithms, and more.
 | [Youtuber Channel Machine Learning Tutorial](https://www.youtube.com/bisaai) | Youtube Channel Turorial Teachable Machine for beginner |
 | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | A Machine Learning crash course using Tensorflow APIs by Google|
