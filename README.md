@@ -25,10 +25,10 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Layman's Intro](https://towardsdatascience.com/a-simple-layman-introduction-to-ai-bcf793be7b4a) | A layman's introduction to AI |
 
 
-
 ## Book Resources
 | Author  | Book  | Personal Notes |
 |---|---|---|
+| Peter Harrington | Machine Learning in Action | (Source: https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning%20in%20Action.pdf)| 
 |---| Machine Learning |---|
 |---| Understanding Machine Learning From Theory to Algorithms |---|
 |---| Machine Learning Yearning |---|
@@ -38,4 +38,5 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| Deep Learning Book |---|
 |---| Reinforcement Learning: An Introduction |---|
 |---| Reinforcement Learning |---|
-|Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
+| Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
+
