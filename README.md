@@ -20,17 +20,19 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
 | [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+| [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
 
 
 ## Book Resources
-| Author  | Book  |
-|---|---| 
-|---| Machine Learning |
-|---| Understanding Machine Learning From Theory to Algorithms |
-|---| Machine Learning Yearning |
-|---| A Course in Machine Learning |
-|---| Machine Learning |
-|---| Neural Networks and Deep Learning |
-|---| Deep Learning Book |
-|---| Reinforcement Learning: An Introduction |
-|---| Reinforcement Learning |
+| Author  | Book  | Personal Notes |
+|---|---|---|
+|---| Machine Learning |---|
+|---| Understanding Machine Learning From Theory to Algorithms |---|
+|---| Machine Learning Yearning |---|
+|---| A Course in Machine Learning |---|
+|---| Machine Learning |---|
+|---| Neural Networks and Deep Learning |---|
+|---| Deep Learning Book |---|
+|---| Reinforcement Learning: An Introduction |---|
+|---| Reinforcement Learning |---|
+|Stuart Russel & Peter Norvig | Artificial Intelligence: A Modern Approach, 3rd Edition | This is the prescribed text book for my Introduction to AI university course. It starts off explaining all the basics and definitions of what AI is, before launching into agents, algorithms, and how to apply them. Russel is from the University of California at Berkeley. Norvig is from Google.|
