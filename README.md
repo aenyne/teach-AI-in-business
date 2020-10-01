@@ -33,6 +33,9 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 | [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
+|[Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
+|[Fundamentals of Artificial Intelligence](https://nptel.ac.in/courses/112/103/112103280/)|This course is for absolute beginners with no technical knowledge.|
+|[Bandit Algorithm (Online Machine Learning)](https://nptel.ac.in/courses/106/101/110101145/)|No requirement of technical knowledge and a basic understending of Probability theory would help|
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
