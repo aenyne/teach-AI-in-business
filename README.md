@@ -33,7 +33,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 | [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
-
+| [Creative Applications of Deep Learning With Tensorflow ](https://www.classcentral.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679) | This is a course focused on the open-source TensorFlow framework originally created by Google for use in Deep Learning |
 ## Book Resources
 | Author  | Book  | Description & Notes |
 |---|---|---|
