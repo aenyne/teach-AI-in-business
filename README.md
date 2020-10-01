@@ -20,6 +20,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
 | [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+[Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 
 
 ## Book Resources
