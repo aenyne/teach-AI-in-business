@@ -32,10 +32,12 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
 | [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
+| [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
+| [Fundamentals of Artificial Intelligence](https://nptel.ac.in/courses/112/103/112103280/)|This course is for absolute beginners with no technical knowledge.|
+| [Bandit Algorithm (Online Machine Learning)](https://nptel.ac.in/courses/106/101/110101145/)|No requirement of technical knowledge and a basic understending of Probability theory would help|
 | [AI and Machine Learning: A Nontechnical Overview](https://www.oreilly.com/library/view/ai-for-people/9781492036562/ch04.html) | AI and Machine Learning: A Nontechnical Overview from OREILLY themselves is a guide to learn anyone everything they need to know about AI, focussed on non-tech people |
 | [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
 | [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
-
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
