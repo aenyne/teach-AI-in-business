@@ -16,54 +16,52 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 
 **Kindly use only those Resources with NO CODE**
 
-## Wikipedia
-| Name | Description  |
+
+## Online Videos & Courses
+| Link to Issue  | Description  |
 |---|---|
-| [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) | Wikipedia Page of AI |
+| [Top Trending Technologies](https://www.youtube.com/Intellipaat) | Youtube Channel to master top trending technologyies including artificial intelligence |
+| [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
+| [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
+| [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) | Visual introduction to Machine Learning is a beautiful website that gives a comprehensive introduction and easily understood first encounter with machine learning |
+| [Crash course for AI](https://www.youtube.com/watch?v=GvYYFloV0aA&feature=youtu.be) | This is a fun video series that introduces students and educators to Artificial Intelligence and also offers additional more advanced videos. Learn about the basics, neural networks, algorithms, and more.
+| [Youtuber Channel Machine Learning Tutorial](https://www.youtube.com/bisaai) | Youtube Channel Turorial Teachable Machine for beginner |
+| [Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai) |Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
+| [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
+| [How far is too far? The age of AI](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)| This is a Youtube Orignals series by Robert Downey|
+| [Fundamentals of Artificial Intelligence](https://nptel.ac.in/courses/112/103/112103280/)|This course is for absolute beginners with no technical knowledge.|
+| [Bandit Algorithm (Online Machine Learning)](https://nptel.ac.in/courses/106/101/110101145/)|No requirement of technical knowledge, but a basic understending of Probability Ttheory would help|
+| [An Executive's Guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)|This is an interactive guide to teaching business professionals how they might employ artificial intelligence in their business|
+| [AI Business School](https://www.microsoft.com/en-us/ai/ai-business-school)|Series of videos that teach how AI may be incorporated in various business industries|
+| [Artificial Intelligence Tutorial for Beginners](https://www.youtube.com/watch?v=JMUxmLyrhSk) | This video will provide you with a comprehensive and detailed knowledge of Artificial Intelligence concepts with hands-on examples. |
+| [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
+| [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
+| [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
+
+## Train Your Own AI 
+| Link to Issue  | Description  |
+|---|---|
+| [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
+| [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
 
 ## Articles
-| By  | Title  |
+| By & Title | Description |
 |---|---|
+| [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) | Wikipedia Page of AI |
+| [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
+| [LIAI](https://medium.com/autonomous-agents/laymans-intro-to-ai-and-neural-networks-ce074457d85a) | A detailed introduction to AI and neural networks |
+| [Layman's Intro](https://towardsdatascience.com/a-simple-layman-introduction-to-ai-bcf793be7b4a) | A layman's introduction to AI |
+| [AI and Machine Learning: A Nontechnical Overview](https://www.oreilly.com/library/view/ai-for-people/9781492036562/ch04.html) | AI and Machine Learning: A Nontechnical Overview from OREILLY themselves is a guide to learn anyone everything they need to know about AI, focussed on non-tech people |
+| [What business leaders need to know about artifical intelligence](https://mitsloan.mit.edu/ideas-made-to-matter/what-business-leaders-need-to-know-about-artificial-intelligence)|Short article that summarizes the essential aspects of AI that business leaders need to understand|
+| [How Will No-Code Impact the Future of Conversational AI](https://readwrite.com/2020/09/24/how-will-no-code-impact-the-future-of-conversational-ai/?__cf_chl_jschl_tk__=74082ce99a84cd38c234ae6829a4e2f73edd96cf-1601559066-0-AcbFGwzrAprE8L20J5WS1BO6HVBUYEZg2J8kJvHQQQOPJIB0EK7KG-HhFpWU3yC5u1kIJggPmdQ4OoDXuR3OMu19kgyXolFM02Kv6CG31nP2pJGE28Apqa6CGuWIRvEG_AWDGJHR7pxsVtkUCUOi0tyLIqXdoTvEw3zMNbRGWzjfUI9xr2QU5besg9mHhj8heIP6RoX6gdj17Fr0XnQV3IVmdYBmI6eVOdk4YBPDaiv8k4L1uu6XQvS13g8EG_RHPPpVwuQKOoRIoxiLJ_Q_mV7ycXWfUMjZzcdIi0NUIDb8a_ZbL6gW9Q274B8YDQxIn1f0w4n8lPndrr-beEr5rmypG6WxIHVrTbT138dRkXgxeiseTeh6Kp30LUXL-S2RpIWrsN9hy_f_NHu54irrVXwJz9OwiDLouq-6B21Vnu9z) | A humble explanation to the current state of converstational AI i.e.Chatbots and how it coul evolve with the current trend of no coding. |
 | [Investopedia](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) | Basic explanation of what AI is in a very basic and comprehensive way |
 | [Packtpub](https://hub.packtpub.com/a-non-programmers-guide-to-learning-machine-learning/) | A non programmer’s guide to learning Machine learning |
 | [Builtin](https://builtin.com/artificial-intelligence) | Artificial Intelligence.What is Artificial Intelligence? How Does AI Work? |
 | [Future Of Life](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1) | Benefits & Risks of Artificial Intelligence |
 | [NSDM India -Arpit](https://www.nsdmindia.com/ai-tools-non-coder/) | 100+ AI Tools For Non-Coders That Will Make Your Marketing Better.  |
 
-## Online Material
 
-| Link to Issue  | Description  |
-|---|---|
-| [Top Trending Technologies](https://www.youtube.com/Intellipaat) | Youtube Channel to master top trending technologyies including artificial intelligence |
-| [AI4All](https://ai4all.docebosaas.com/learn) | AI 4 All is a resource for AI facilitators to bring AI to scholars and students |
-| [Elements of AI](https://www.elementsofai.com/) | Elements of AI is a free open online course to teach AI principles  |
-| [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
-| [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) | Visual introduction to Machine Learning is a beautiful website that gives a comprehensive introduction and easily understood first encounter with machine learning |
-| [Crash course for AI](https://www.youtube.com/watch?v=GvYYFloV0aA&feature=youtu.be) | This is a fun video series that introduces students and educators to Artificial Intelligence and also offers additional more advanced videos. Learn about the basics, neural networks, algorithms, and more.
-| [Youtuber Channel Machine Learning Tutorial](https://www.youtube.com/bisaai) | Youtube Channel Turorial Teachable Machine for beginner |
-| [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | A Machine Learning crash course using Tensorflow APIs by Google|
-| [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
-| [LIAI](https://medium.com/autonomous-agents/laymans-intro-to-ai-and-neural-networks-ce074457d85a) | A detailed introduction to AI and neural networks |
-| [Layman's Intro](https://towardsdatascience.com/a-simple-layman-introduction-to-ai-bcf793be7b4a) | A layman's introduction to AI |
-| [The Non-Technical AI Guide](https://rb.gy/rqxt0v) | One of the good blog post that could help AI more understandable for people without technical background |
-| [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | ULearn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems |
-| [AI For Everyone by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone is a course especially for people from a non-technical background to understand AI strategies |
-| [How far is too far? The age of AI](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)| This is a Youtube Orignals series by Robert Downey|
-| [Fundamentals of Artificial Intelligence](https://nptel.ac.in/courses/112/103/112103280/)|This course is for absolute beginners with no technical knowledge.|
-| [Bandit Algorithm (Online Machine Learning)](https://nptel.ac.in/courses/106/101/110101145/)|No requirement of technical knowledge and a basic understending of Probability theory would help|
-| [AI and Machine Learning: A Nontechnical Overview](https://www.oreilly.com/library/view/ai-for-people/9781492036562/ch04.html) | AI and Machine Learning: A Nontechnical Overview from OREILLY themselves is a guide to learn anyone everything they need to know about AI, focussed on non-tech people |
-| [An Executive's Guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)|This is an interactive guide to teaching business professionals how they might employ artificial intelligence in their business|
-| [What business leaders need to know about artifical intelligence](https://mitsloan.mit.edu/ideas-made-to-matter/what-business-leaders-need-to-know-about-artificial-intelligence)|Short article that summarizes the essential aspects of AI that business leaders need to understand|
-| [AI Business School](https://www.microsoft.com/en-us/ai/ai-business-school)|Series of videos that teach how AI may be incorporated in various business industries|
-| [How Will No-Code Impact the Future of Conversational AI](https://readwrite.com/2020/09/24/how-will-no-code-impact-the-future-of-conversational-ai/?__cf_chl_jschl_tk__=74082ce99a84cd38c234ae6829a4e2f73edd96cf-1601559066-0-AcbFGwzrAprE8L20J5WS1BO6HVBUYEZg2J8kJvHQQQOPJIB0EK7KG-HhFpWU3yC5u1kIJggPmdQ4OoDXuR3OMu19kgyXolFM02Kv6CG31nP2pJGE28Apqa6CGuWIRvEG_AWDGJHR7pxsVtkUCUOi0tyLIqXdoTvEw3zMNbRGWzjfUI9xr2QU5besg9mHhj8heIP6RoX6gdj17Fr0XnQV3IVmdYBmI6eVOdk4YBPDaiv8k4L1uu6XQvS13g8EG_RHPPpVwuQKOoRIoxiLJ_Q_mV7ycXWfUMjZzcdIi0NUIDb8a_ZbL6gW9Q274B8YDQxIn1f0w4n8lPndrr-beEr5rmypG6WxIHVrTbT138dRkXgxeiseTeh6Kp30LUXL-S2RpIWrsN9hy_f_NHu54irrVXwJz9OwiDLouq-6B21Vnu9z) | A humble explanation to the current state of converstational AI i.e.Chatbots and how it coul evolve with the current trend of no coding. |
-| [Artificial Intelligence Tutorial for Beginners](https://www.youtube.com/watch?v=JMUxmLyrhSk) | This video will provide you with a comprehensive and detailed knowledge of Artificial Intelligence concepts with hands-on examples. |
-| [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
-| [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
-| [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
-
-
-
-## Book Resources
+## Book Resources for Further Reading
 | Author  | Book  | Description & Notes |
 |---|---|---|
 | Ethem Alpaydin|[Machine Learning: The New AI](https://libribook.com/ebook/4757/machine-learning-new-ai-pdf) | Graph Theory with Applications to Engineering & Computer Science. A concise overview of machine learning—computer programs that learn from data—which underlies applications that include recommendation systems, face recognition, and driverless cars. |
