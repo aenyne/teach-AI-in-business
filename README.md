@@ -16,6 +16,21 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 
 **Please only Resources with NO CODE**
 
+## Wikipedia
+| Name | Description  |
+|---|---|
+| [Artificial Intelligence] | (https://en.wikipedia.org/wiki/Artificial_intelligence) |
+
+## Articles
+| By  | Title  |
+|---|---|
+| [Investopedia](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) | Basic explanation of what AI is in a very basic and comprehensive way |
+| [Packtpub](https://hub.packtpub.com/a-non-programmers-guide-to-learning-machine-learning/) | A non programmer’s guide to learning Machine learning |
+| [Builtin](https://builtin.com/artificial-intelligence) | Artificial Intelligence.
+What is Artificial Intelligence? How Does AI Work? |
+| [Future Of Life](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1) | Benefits & Risks of Artificial Intelligence |
+| [NSDM India -Arpit](https://www.nsdmindia.com/ai-tools-non-coder/) | 100+ AI Tools For Non-Coders That Will Make Your Marketing Better.  |
+
 ## Online Material
 
 | Link to Issue  | Description  |
