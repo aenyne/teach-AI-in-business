@@ -42,6 +42,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
 | [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
 | [How Will No-Code Impact the Future of Conversational AI](https://readwrite.com/2020/09/24/how-will-no-code-impact-the-future-of-conversational-ai/?__cf_chl_jschl_tk__=74082ce99a84cd38c234ae6829a4e2f73edd96cf-1601559066-0-AcbFGwzrAprE8L20J5WS1BO6HVBUYEZg2J8kJvHQQQOPJIB0EK7KG-HhFpWU3yC5u1kIJggPmdQ4OoDXuR3OMu19kgyXolFM02Kv6CG31nP2pJGE28Apqa6CGuWIRvEG_AWDGJHR7pxsVtkUCUOi0tyLIqXdoTvEw3zMNbRGWzjfUI9xr2QU5besg9mHhj8heIP6RoX6gdj17Fr0XnQV3IVmdYBmI6eVOdk4YBPDaiv8k4L1uu6XQvS13g8EG_RHPPpVwuQKOoRIoxiLJ_Q_mV7ycXWfUMjZzcdIi0NUIDb8a_ZbL6gW9Q274B8YDQxIn1f0w4n8lPndrr-beEr5rmypG6WxIHVrTbT138dRkXgxeiseTeh6Kp30LUXL-S2RpIWrsN9hy_f_NHu54irrVXwJz9OwiDLouq-6B21Vnu9z) | A humble explanation to the current state of converstational AI i.e.Chatbots and how it coul evolve with the current trend of no coding. |
+| [Artificial Intelligence Tutorial for Beginners](https://www.youtube.com/watch?v=JMUxmLyrhSk) | This video will provide you with a comprehensive and detailed knowledge of Artificial Intelligence concepts with hands-on examples. |
 
 ## Book Resources
 | Author  | Book  | Description & Notes |
