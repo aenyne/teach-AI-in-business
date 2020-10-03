@@ -37,6 +37,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
 | [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
 | [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
+| [AI Basics Tutorial](https://www.youtube.com/watch?v=opgTF9Yf3Dk&ab_channel=GreatLearning) | This video starts from the very basics of AI and ML, and finally has a hands-on demo of the standard MNIST Dataset Number Detection model using Keras and Tensorflow.|
 
 ## Train Your Own AI 
 | Link to Issue  | Description  |
