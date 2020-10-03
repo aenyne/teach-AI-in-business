@@ -46,6 +46,8 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---|---|
 | [Teachable Machine](https://teachablemachine.withgoogle.com/) | Use Teachable Machine to train a computer to recognize your own images, sounds, & poses |
 | [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
+| [Google Quick Draw](https://quickdraw.withgoogle.com/) | Train an AI to guess from drawings|
+| [Deepdream Generator](https://deepdreamgenerator.com/)| Merge Pictures to Deep Dreams using the Deepdream Generator|
 
 ## Articles
 | By & Title | Description |
