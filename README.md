@@ -98,3 +98,6 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 ## Artificial Intelligence Frameworks
 | Name  | Description |
 |---|---|
+| [TensorFlow](https://www.tensorflow.org/) | TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. |
+| [Keras](https://keras.io/) | Keras is an open-source AI tool- a neural network library written in Python just like TensorFlow, but it is not meant to be an end-to-end machine learning framework. |
+| [Pytorch](https://pytorch.org/) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab. |
