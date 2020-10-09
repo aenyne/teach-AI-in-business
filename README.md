@@ -99,7 +99,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Tom Taulli | [Artificial Intelligence Basics: A Non-Technical Introduction](https://geni.us/jOBRPcu) | This book equips you with a fundamental grasp of Artificial Intelligence and its impact. It provides a non-technical introduction to important concepts such as Machine Learning, Deep Learning, Natural Language Processing, Robotics and more. Further the author expands on the questions surrounding the future impact of AI on aspects that include societal trends, ethics, governments, company structures and daily life. |
 |Cornelius Weber, Mark Elshaw, N. Michael Mayer| Reinforcement Learning |Learning is a very important aspect. This book is on reinforcement learning which involves performing actions to achieve a goal. The first 11 chapters of this book describe and extend the scope of reinforcement learning.|
 
-## Artificial Intelligence Frameworks
+## Artificial Intelligence Frameworks for more Research
 | Name  | Description |
 |---|---|
 | [TensorFlow](https://www.tensorflow.org/) | TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. |
