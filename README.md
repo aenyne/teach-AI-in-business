@@ -48,6 +48,10 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
 | [Google Quick Draw](https://quickdraw.withgoogle.com/) | Train an AI to guess from drawings|
 | [Deepdream Generator](https://deepdreamgenerator.com/)| Merge Pictures to Deep Dreams using the Deepdream Generator|
+| [Create ML](https://developer.apple.com/machine-learning/create-ml/)|Quickly build and train Core ML models on your Mac with no code.|
+| [What-If Tool](https://pair-code.github.io/what-if-tool/)|Visually probe the behavior of trained machine learning models, with minimal coding.|
+| [Metaranx](https://www.metaranx.com/)|Use and build artificial intelligence tools to analyze and make decisions about your data. Drag-and-drop. No code.|
+| [obviously.ai](https://www.obviously.ai/)|The total process of building ML algorithms, explaining results, and predicting outcomes in one single click.|
 
 ## Articles
 | By & Title | Description |
