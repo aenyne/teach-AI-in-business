@@ -39,6 +39,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
 | [AI Basics Tutorial](https://www.youtube.com/watch?v=opgTF9Yf3Dk&ab_channel=GreatLearning) | This video starts from the very basics of AI and ML, and finally has a hands-on demo of the standard MNIST Dataset Number Detection model using Keras and Tensorflow.|
 | [Simple brain.js Tutorial](https://www.youtube.com/watch?v=6E6XecoTRVo) | This video explains a very simple javascript AI library called brain.js so you can easily run AI in the browser.
+| [Google AI](https://ai.google/)| A complete kit for by google official for non-tech guy to start all over from basics, till advanced |
 
 
 ## Train Your Own AI 
