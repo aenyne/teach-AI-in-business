@@ -41,6 +41,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Indonesian Machine Learning Tutorial](https://medium.com/bisa-ai) | Turorial Teachable Machine to train a computer for beginner |
 | [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
 | [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
+| [ AI with Google] ( https://ai.google/principles/ )
 
 
 ## Book Resources
@@ -65,3 +66,4 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 |---| A Course in Machine Learning |---|
 | Tom M Mitchell | [Machine Learning](https://www.cs.cmu.edu/~tom/mlbook.html) | This book covers the field of machine learning, which is the study of algorithms that allow computer programs to automatically improve through experience. The book is intended to support upper level undergraduate and introductory level graduate courses in machine learning. |
 | Charu C. Aggarwal| [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | This book covers both classical and modern models in deep learning. The primary focus is on the theory and algorithms of deep learning. The book is also rich in discussing different applications in order to give the practitioner a flavor of how neural architectures are designed for different types of problems. |
+| PETER NOVIG | (https://krembol.ga/book.php?id=eH6jBQAAQBAJ) | Book name: Paradigms of Artificial Intelligence Programming || One of the oldest(1922) book written for undertstanding the principles of AI | 
