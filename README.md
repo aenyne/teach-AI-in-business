@@ -12,9 +12,11 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 
 
 **Make this Issue your First Issue**
-I am collecting material for teaching AI-related issues to non-tech people. The links should have provide for a general understanding of AI without going too deep into technical issues. Please contribute!
+I am collecting material for teaching AI-related issues to non-tech people. The links should have provide for a general understanding of AI without going too deep into technical issues. Please contribute! Kindly use only those Resources with **NO CODE**
 
-**Kindly use only those Resources with NO CODE**
+**NEW**
+Check out also the [AI Wiki](AI-Wiki.md)
+**NEW**
 
 
 ## Online Videos & Courses
@@ -101,11 +103,3 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Tom Taulli | [Artificial Intelligence Basics: A Non-Technical Introduction](https://geni.us/jOBRPcu) | This book equips you with a fundamental grasp of Artificial Intelligence and its impact. It provides a non-technical introduction to important concepts such as Machine Learning, Deep Learning, Natural Language Processing, Robotics and more. Further the author expands on the questions surrounding the future impact of AI on aspects that include societal trends, ethics, governments, company structures and daily life. |
 |Cornelius Weber, Mark Elshaw, N. Michael Mayer| Reinforcement Learning |Learning is a very important aspect. This book is on reinforcement learning which involves performing actions to achieve a goal. The first 11 chapters of this book describe and extend the scope of reinforcement learning.|
 |John D. Kelleher, Brian Mac Namee, Aoife D'arcy| Algorithms, Worked Examples, and Case Studies | A comprehensive introduction to the most important machine learning approaches used in predictive data analytics, covering both theoretical concepts and practical applications. |
-
-## Artificial Intelligence Frameworks for more Research
-| Name  | Description |
-|---|---|
-| [TensorFlow](https://www.tensorflow.org/) | TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. |
-| [Keras](https://keras.io/) | Keras is an open-source AI tool- a neural network library written in Python just like TensorFlow, but it is not meant to be an end-to-end machine learning framework. |
-| [Pytorch](https://pytorch.org/) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab. |
-|[scikit-learn](https://scikit-learn.org/stable/)  [Linear Regression Using Python scikit-learn](https://dzone.com/articles/linear-regression-using-python-scikit-learn) | Sci-kit learn is a very powerful Python library for machine learning that is majorly used in building models. Built using other libraries such as numpy, SciPy, and matplotlib, it is very efficient for statistical modeling techniques such as classification, regression, and clustering. Sci-kit learn comes with features such as supervised learning algorithms, unsupervised learning algorithms, and cross-validation. |
