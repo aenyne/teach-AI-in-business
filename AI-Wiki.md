@@ -20,6 +20,7 @@ Let's explore some of the most common Ai-related terms.
 |Data Set|---|---|
 |Data Scientist|---|---|
 |Decision Tree|---|---|
+|Feature|---|---|
 |GAN - Generative Adversarian Network|---|---|
 |Impact|---|---|
 |Intelligence|---|---|
