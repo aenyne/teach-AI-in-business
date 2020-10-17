@@ -4,8 +4,9 @@ Let's explore some of the most common Ai-related terms.
 
 
 ## The AI Vocabulary
-|---|---|---|
+
 |Term|Definition|Links and Related Material|
+|---|---|---|
 |AI - Artificial Intelligence|---|---|
 |AI Engineer|---|---|
 |AI Researcher|---|---|
