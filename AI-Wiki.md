@@ -10,7 +10,7 @@ Let's explore some of the most common Ai-related terms.
 |AI - Artificial Intelligence|---|You find a number of tutorials and readings [here](README.md)|
 |AI Engineer|---|---|
 |AI Researcher|---|---|
-|Algorithm|---|---|
+|Algorithm|a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.|For exploring more[join me](https://en.wikipedia.org/wiki/Algorithm)|
 |Bias|---|---|
 |Big Data|---|---|
 |CNN - Convolutional Neural Network|---|---|
