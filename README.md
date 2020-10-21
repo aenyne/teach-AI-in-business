@@ -12,9 +12,11 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 
 
 **Make this Issue your First Issue**
-I am collecting material for teaching AI-related issues to non-tech people. The links should have provide for a general understanding of AI without going too deep into technical issues. Please contribute!
+I am collecting material for teaching AI-related issues to non-tech people. The links should have provide for a general understanding of AI without going too deep into technical issues. Please contribute! Kindly use only those Resources with **NO CODE**
 
-**Kindly use only those Resources with NO CODE**
+**NEW**
+Check out also the [AI Wiki](AI-Wiki.md)
+**NEW**
 
 
 ## Online Videos & Courses
@@ -39,6 +41,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
 | [AI Basics Tutorial](https://www.youtube.com/watch?v=opgTF9Yf3Dk&ab_channel=GreatLearning) | This video starts from the very basics of AI and ML, and finally has a hands-on demo of the standard MNIST Dataset Number Detection model using Keras and Tensorflow.|
 | [Simple brain.js Tutorial](https://www.youtube.com/watch?v=6E6XecoTRVo) | This video explains a very simple javascript AI library called brain.js so you can easily run AI in the browser.
+| [Google AI](https://ai.google/)| A complete kit for by google official for non-tech guy to start all over from basics, till advanced |
 
 
 ## Train Your Own AI 
@@ -48,6 +51,10 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [eCraft2Learn](https://ecraft2learn.github.io/ai/) | Resource and interactive space (Snap, a visual programming environment like Scratch) to learn how to create AI programs |
 | [Google Quick Draw](https://quickdraw.withgoogle.com/) | Train an AI to guess from drawings|
 | [Deepdream Generator](https://deepdreamgenerator.com/)| Merge Pictures to Deep Dreams using the Deepdream Generator|
+| [Create ML](https://developer.apple.com/machine-learning/create-ml/)|Quickly build and train Core ML models on your Mac with no code.|
+| [What-If Tool](https://pair-code.github.io/what-if-tool/)|Visually probe the behavior of trained machine learning models, with minimal coding.|
+| [Metaranx](https://www.metaranx.com/)|Use and build artificial intelligence tools to analyze and make decisions about your data. Drag-and-drop. No code.|
+| [obviously.ai](https://www.obviously.ai/)|The total process of building ML algorithms, explaining results, and predicting outcomes in one single click.|
 
 ## Articles
 | By & Title | Description |
@@ -96,5 +103,4 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | Oliver Theobald|Machine Learning For Absolute Beginners: A Plain English Introduction|This is an absolute beginners ML guide.No mathematical background is needed, nor coding experience — this is the most basic introduction to the topic for anyone interested in machine learning.“Plain” language is highly valued here to prevent beginners from being overwhelmed by technical jargon. Clear, accessible explanations and visual examples accompany the various algorithms to make sure things are easy to follow.|
 | Tom Taulli | [Artificial Intelligence Basics: A Non-Technical Introduction](https://geni.us/jOBRPcu) | This book equips you with a fundamental grasp of Artificial Intelligence and its impact. It provides a non-technical introduction to important concepts such as Machine Learning, Deep Learning, Natural Language Processing, Robotics and more. Further the author expands on the questions surrounding the future impact of AI on aspects that include societal trends, ethics, governments, company structures and daily life. |
 |Cornelius Weber, Mark Elshaw, N. Michael Mayer| Reinforcement Learning |Learning is a very important aspect. This book is on reinforcement learning which involves performing actions to achieve a goal. The first 11 chapters of this book describe and extend the scope of reinforcement learning.|
-|Aurélien Géron| Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow |This book is not only about one of the most popular programming framework TensorFlow but also about modern techniques in machine learning and neural networks. You will code your first image recognition model and learn how to preprocess and analyze text.|
-|Jeremy Howard and Sylvain Gugger| Deep Learning for Coders with fastai and PyTorch|Code examples are in the PyTorch framework. Jeremy Howard is a famous researcher and developer in the AI community. His fastai project helps millions of people to get into deep learning.|
+
