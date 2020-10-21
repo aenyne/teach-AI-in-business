@@ -66,6 +66,7 @@ I am collecting material for teaching AI-related issues to non-tech people. The 
 | [NSDM India -Arpit](https://www.nsdmindia.com/ai-tools-non-coder/) | 100+ AI Tools For Non-Coders That Will Make Your Marketing Better.  |
 | [AI in Marketing for Startups & Non-technical Marketers](https://medium.com/towards-artificial-intelligence/ai-marketing-for-non-technical-marketers-ddd5d4a91539) | A practical guide for non-technical people  |
 | [Blog - Machine Learning MAstery](https://machinelearningmastery.com/blog/) | Blogs and Articles by Jason Browniee on ML  |
+| [Article Series - James McCaffrey's Data Science Lab](https://visualstudiomagazine.com/Articles/List/Neural-Network-Lab.aspx) | Written by Microsoft Research's James McCaffrey and focused on both R and Python  |
 
 
 ## Book Resources for Further Reading
