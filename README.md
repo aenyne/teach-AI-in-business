@@ -42,8 +42,6 @@ Check out also the [AI Wiki](AI-Wiki.md)
 | [AI Basics Tutorial](https://www.youtube.com/watch?v=opgTF9Yf3Dk&ab_channel=GreatLearning) | This video starts from the very basics of AI and ML, and finally has a hands-on demo of the standard MNIST Dataset Number Detection model using Keras and Tensorflow.|
 | [Simple brain.js Tutorial](https://www.youtube.com/watch?v=6E6XecoTRVo) | This video explains a very simple javascript AI library called brain.js so you can easily run AI in the browser.|
 | [Google AI](https://ai.google/)| A complete kit for by google official for non-tech guy to start all over from basics, till advanced |
-| [Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)| HarvardX's Computer Science for Artificial Intelligence Professional Certificate|
-| [Learn AI with Google](https://ai.google/education/) | Learn from ML experts at Google|
 
 
 
