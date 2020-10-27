@@ -40,8 +40,10 @@ Check out also the [AI Wiki](AI-Wiki.md)
 | [Indonesian Youtube Playlist AI Tutorial](https://www.youtube.com/watch?v=45cH302yBZA&list=PLIeJsyt_FUfKYGuSx92yekr9I4O7U1IGY) | Youtube Playlist AI Tutorial For Beginner |
 | [Artificial Intelligence Search Methods For Problem Solving By Prof. Deepak Khemani](https://nptel.ac.in/courses/106/106/106106126/)|These video lectures are for absolute beginners with no technical knowledge|
 | [AI Basics Tutorial](https://www.youtube.com/watch?v=opgTF9Yf3Dk&ab_channel=GreatLearning) | This video starts from the very basics of AI and ML, and finally has a hands-on demo of the standard MNIST Dataset Number Detection model using Keras and Tensorflow.|
-| [Simple brain.js Tutorial](https://www.youtube.com/watch?v=6E6XecoTRVo) | This video explains a very simple javascript AI library called brain.js so you can easily run AI in the browser.
+| [Simple brain.js Tutorial](https://www.youtube.com/watch?v=6E6XecoTRVo) | This video explains a very simple javascript AI library called brain.js so you can easily run AI in the browser.|
 | [Google AI](https://ai.google/)| A complete kit for by google official for non-tech guy to start all over from basics, till advanced |
+
+
 
 
 ## Train Your Own AI 
@@ -73,6 +75,7 @@ Check out also the [AI Wiki](AI-Wiki.md)
 | [NSDM India -Arpit](https://www.nsdmindia.com/ai-tools-non-coder/) | 100+ AI Tools For Non-Coders That Will Make Your Marketing Better.  |
 | [AI in Marketing for Startups & Non-technical Marketers](https://medium.com/towards-artificial-intelligence/ai-marketing-for-non-technical-marketers-ddd5d4a91539) | A practical guide for non-technical people  |
 | [Blog - Machine Learning MAstery](https://machinelearningmastery.com/blog/) | Blogs and Articles by Jason Browniee on ML  |
+| [AI Chatbots without programming](https://www.edx.org/course/AI-chatbots-without-programming)| Chatbots are increasingly in demand among global businesses. This course will teach you how to build, analyze, deploy and monetize chatbots - with the help of IBM Watson and the power of AI.|
 
 
 ## Book Resources for Further Reading
