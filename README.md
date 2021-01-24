@@ -1,4 +1,15 @@
-# Teach AI in Business
+# Teaching AI in Business
+
+
+![banner](https://cdn.pixabay.com/photo/2017/03/23/09/34/artificial-intelligence-2167835_1280.jpg)
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/aenyne/teach-AI-in-business.svg)]
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/aenyne/teach-AI-in-business/issues/)
+
+</div>
+
+<br>
 
 I am collecting material for teaching AI-related issues to non-tech people. The links should provide for a general understanding of AI without going too deep into technical issues. Please contribute!
 
