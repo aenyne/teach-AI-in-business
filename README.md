@@ -1,7 +1,8 @@
 # Teaching AI in Business
 
-
+<div align="center">
 ![banner](https://q4j2g5j9.stackpathcdn.com/ddg-dream/9f69f7e701de01a5fa977bc100dced1b612080b0.jpg)
+</div>
 <div align="center">
 
 [![HitCount](http://hits.dwyl.com/aenyne/teach-AI-in-business.svg)]
