@@ -48,7 +48,7 @@ Check out also the [AI Wiki](AI-Wiki.md)
 | [Simple brain.js Tutorial](https://www.youtube.com/watch?v=6E6XecoTRVo) | This video explains a very simple javascript AI library called brain.js so you can easily run AI in the browser.|
 | [Google AI](https://ai.google/)| A complete kit for by google official for non-tech guy to start all over from basics, till advanced |
 | [Microsoft AI for Beginners](https://github.com/microsoft/AI-For-Beginners)| A self-driven curriculum by Microsoft, which includes 24 lessons on AI. |
-
+| [Regression and Classification by Stanford](https://www.coursera.org/learn/machine-learning)| Learn to build and train supervised ML models for prediction and binary classification tasks, including linear regression and logistic regression. |
 
 
 
