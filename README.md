@@ -48,7 +48,7 @@ Check out also the [AI Wiki](AI-Wiki.md)
 | [Simple brain.js Tutorial](https://www.youtube.com/watch?v=6E6XecoTRVo) | This video explains a very simple javascript AI library called brain.js so you can easily run AI in the browser.|
 | [Google AI](https://ai.google/)| A complete kit for by google official for non-tech guy to start all over from basics, till advanced |
 | [Microsoft AI for Beginners](https://github.com/microsoft/AI-For-Beginners)| A self-driven curriculum by Microsoft, which includes 24 lessons on AI. |
-
+| [Regression and Classification by Stanford](https://www.coursera.org/learn/machine-learning)| Learn to build and train supervised ML models for prediction and binary classification tasks, including linear regression and logistic regression. |
 
 
 
@@ -110,3 +110,4 @@ Check out also the [AI Wiki](AI-Wiki.md)
 | Tom Taulli | [Artificial Intelligence Basics: A Non-Technical Introduction](https://geni.us/jOBRPcu) | This book equips you with a fundamental grasp of Artificial Intelligence and its impact. It provides a non-technical introduction to important concepts such as Machine Learning, Deep Learning, Natural Language Processing, Robotics and more. Further the author expands on the questions surrounding the future impact of AI on aspects that include societal trends, ethics, governments, company structures and daily life. |
 |Cornelius Weber, Mark Elshaw, N. Michael Mayer| Reinforcement Learning |Learning is a very important aspect. This book is on reinforcement learning which involves performing actions to achieve a goal. The first 11 chapters of this book describe and extend the scope of reinforcement learning.|
 |John D. Kelleher, Brian Mac Namee, Aoife D'arcy| Algorithms, Worked Examples, and Case Studies | A comprehensive introduction to the most important machine learning approaches used in predictive data analytics, covering both theoretical concepts and practical applications. |
+| Rick Bostrom | [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Nick-Bostrom-audiobook/dp/B00LPMFE9Y/) | Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life. The human brain has some capabilities that the brains of other animals lack.
