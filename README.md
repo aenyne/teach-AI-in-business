@@ -63,6 +63,8 @@ Check out also the [AI Wiki](AI-Wiki.md)
 | [What-If Tool](https://pair-code.github.io/what-if-tool/)|Visually probe the behavior of trained machine learning models, with minimal coding.|
 | [Metaranx](https://www.metaranx.com/)|Use and build artificial intelligence tools to analyze and make decisions about your data. Drag-and-drop. No code.|
 | [obviously.ai](https://www.obviously.ai/)|The total process of building ML algorithms, explaining results, and predicting outcomes in one single click.|
+| [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/pretrained)| Provides pre-trained models you can use in your projects. |
+
 
 ## Articles
 | By & Title | Description |
